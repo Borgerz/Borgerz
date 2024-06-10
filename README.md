@@ -4,7 +4,7 @@
 
 
 - 👀 atualmante cursando análise e desenvolvimento de sistemas
-- 📫 me aprofundando em python
+- 📫 me aprofundando em backend
 - 😄 Pronouns: ele/dele
   
 ##
