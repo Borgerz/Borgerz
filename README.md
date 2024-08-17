@@ -1,11 +1,11 @@
 
   
 ## Olá, sou Lucas Borges!
+## Hello, i am Lucas Borges!
 
-
-- 👀 atualmante cursando análise e desenvolvimento de sistemas
-- 📫 me aprofundando em backend
-- 😄 Pronouns: ele/dele
+-  atualmante cursando análise e desenvolvimento de sistemas
+-  me aprofundando em java
+-  Pronomes: ele/dele
   
 ##
 
