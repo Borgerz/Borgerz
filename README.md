@@ -1,7 +1,7 @@
 
   
 ## Olá, sou Lucas Borges!
-## Hello, i'm Lucas Borges!
+## Hi, My name is Lucas Borges!
 
 -  atualmante cursando análise e desenvolvimento de sistemas
 -  me aprofundando em java
