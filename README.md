@@ -1,6 +1,10 @@
 
   
 ## Olá, sou Lucas!
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_ek9wovek9wovek9w" src="https://github.com/user-attachments/assets/599a1773-7761-466b-8e26-253dfbd34f40" />
+>
+
 ## Hi, My name is Lucas!
 
 -  atualmante estagiando.
