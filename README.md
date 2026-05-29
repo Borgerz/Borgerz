@@ -1,26 +1,24 @@
 
   
-## Olá, sou Lucas!
-
-<img align="center" width="500" height="500" alt="Gemini_Generated_Image_ek9wovek9wovek9w" src="https://github.com/user-attachments/assets/599a1773-7761-466b-8e26-253dfbd34f40" />
 
 
-## Hi, My name is Lucas!
 
--  atualmante estagiando.
--  aprendendo sempre.
--  Analise e desenvolvimento de sistemas 5/6
+## Olá, sou Lucas! / Hi, My name is Lucas!
+
+-  atualmante estagiando  / currently doing internship
+-  aprendendo sempre  / always learning
+-  Analise e desenvolvimento de sistemas 3/6  / Systems analysis and development 3/6
   
 ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
- <img align="center" alt="Lucas-ORACLE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Lucas-ORACLE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
           
 <div>
